@@ -1,0 +1,414 @@
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+
+
+}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+
+
+
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .nav-item {
+	padding: 10px 15px;
+}
+.nav-link {
+	text-align: center;
+}
+.navbtn {
+	margin-left: 50%;
+    transform: translateX(-50%);
+}
+.bannerlay h1 {
+	padding-top: 22%;
+}
+    .titel h2 {
+	font-size: 30px;
+}
+.titel p {
+	padding: 10px 84px;
+	font-weight: 400;
+}
+    .fullshape {
+	padding-top: 0;
+}
+    .shape img {
+	width: 60%;
+}
+    .shapetext h4 {
+	font-size: 17px;
+}
+    .shapetext p {
+	font-size: 12px;
+	margin-right: 5%;
+	margin-bottom: 3px;
+}
+   .galbtn {
+	margin-left: 11px;
+}
+    .galietmlay h4 {
+	font-size: 15px;
+	padding-top: 6px;
+        margin-bottom: 0;
+}
+    .slideperagraph {
+	font-size: 13px;
+}
+    .client {
+	margin-top: 28px;
+	border-radius: 50%;
+}
+    .counterdownbtn:hover {
+	transform: scale(1);
+	font-size: 17px;
+}
+    .counterdownbtn {
+	margin-top: 30%;
+}
+   .recentpost p {
+	font-size: 12px;
+} 
+    .footerblog p {
+	font-size: 13px;
+}
+  .footerblog img {
+	margin-top: 20px;
+}  
+   .contactinfo p {
+	line-height: 30px;
+} 
+    input {
+	width: 100%;
+}
+    .mailinglist h6 {
+	margin-top: 10px;
+}
+    
+
+}
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+ .nav-item {
+	padding: 10px 15px;
+}
+.nav-link {
+	text-align: center;
+}
+.navbtn {
+	margin-left: 50%;
+    transform: translateX(-50%);
+}
+    .bannerlay p {
+	margin-right: 16%;
+}
+.bannerlay h1 {
+	padding-top: 25%;
+	margin-right: 0;
+}
+    .titel h2 {
+	font-size: 30px;
+}
+.titel p {
+	padding: 10px 22px;
+	font-weight: 400;
+}
+    .underban button {
+	margin-top: 28px;
+}
+    .fullshape {
+	padding-top: 0;
+}
+    .shape img {
+	width: 80%;
+	margin-top: 30px;
+}
+    .shapetext {
+	margin-top: 50px;
+}
+    .shapetext h4 {
+	font-size: 17px;
+}
+    .shapetext p {
+	font-size: 12px;
+	margin-right: 5%;
+	margin-bottom: 3px;
+}
+   .galbtn {
+	margin-left: 3px;
+}
+    .galietmlay h4 {
+	font-size: 15px;
+	padding-top: 6px;
+        margin-bottom: 0;
+}
+    .slideperagraph {
+	font-size: 13px;
+}
+    .client {
+	margin-top: 62px;
+	border-radius: 50%;
+}
+    .counterdownbtn:hover {
+	transform: scale(1);
+	font-size: 17px;
+}
+    .counterdownbtn {
+	padding: 12px 32px;
+	margin-top: 40%;
+}
+    .singleblog {
+	margin-bottom: 30px;
+}
+   .recentpost p {
+	font-size: 12px;
+} 
+    .footerblog p {
+	font-size: 13px;
+}
+  .footerblog img {
+	margin-top: 0px;
+}  
+    .contactinfo {
+	padding-top: 40px;
+}
+    .mailinglist {
+	padding-top: 40px;
+}
+   .contactinfo p {
+	line-height: 30px;
+} 
+    input {
+	width: 100%;
+}
+    .mailinglist h6 {
+	margin-top: 10px;
+}
+   
+}
+
+
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+.nav-item {
+	padding: 10px 15px;
+}
+.nav-link {
+	text-align: center;
+}
+.navbtn {
+	margin-left: 50%;
+    transform: translateX(-50%);
+}
+    .bannerlay p {
+	margin-right: 16%;
+}
+.bannerlay h1 {
+	padding-top: 60%;
+	margin-right: 0;
+    font-size: 47px;
+}
+    .titel h2 {
+	font-size: 30px;
+}
+.titel p {
+	padding: 10px 22px;
+	font-weight: 400;
+}
+    .underban button {
+	margin-top: 28px;
+	margin-left: 25%;
+}
+    
+    .fullshape {
+	padding-top: 0;
+}
+    .shape img {
+	width: 20%;
+	margin-top: 0;
+	margin-left: 50%;
+    transform: translateX(-50%);
+}
+    .shapetext {
+	margin-top: 20px;
+	text-align: center;
+	padding: 0 9px;
+}
+    .shapetext h4 {
+	font-size: 17px;
+}
+    .shapetext p {
+	font-size: 12px;
+	margin-right: 5%;
+	margin-bottom: 3px;
+}
+   .galbtn {
+	padding: 3px 4px;
+	margin: 2px 6px;
+}
+    .galietmlay h4 {
+	font-size: 15px;
+	padding-top: 6px;
+        margin-bottom: 0;
+}
+    .slideperagraph {
+	font-size: 14px;
+	text-align: center;
+}
+    .name {
+	text-align: center;
+}
+    .client {
+	margin-top: 62px;
+	border-radius: 50%;
+	width: 30%;
+	margin-left: 50%;
+        transform: translateX(-50%);
+}
+    .counterdownbtn:hover {
+	transform: scale(1);
+	font-size: 17px;
+}
+    .slide {
+	padding: 0px 0 100px 0;
+}
+    .counterdownbtn {
+	padding: 12px 32px;
+	margin-top: 5%;
+	
+}
+    .singleblog {
+	margin-bottom: 30px;
+       
+}
+   .recentpost p {
+	font-size: 12px;
+} 
+    .footerblog p {
+	font-size: 13px;
+	text-align: center;
+	padding: 5px 0;
+	
+}
+    .contactinfo h3 {
+	text-align: center;
+	margin-top: 20px;
+}
+    .footerblog {
+	padding: 5px 0;
+	 border-bottom: 0 ;
+}
+  .footerblog img {
+	margin-top: 0px;
+	width: 30%;
+	margin-left: 50%;
+      transform: translate(-50%);
+} 
+    .contactinfo {
+	padding-top: 40px;
+}
+    .mailinglist {
+	padding-top: 40px;
+}
+   .contactinfo p {
+	line-height: 30px;
+	text-align: center;
+	border-bottom: 0;
+}
+    .social {
+	margin-left: 50%;
+        transform: translate(-30%);
+}
+    input {
+	width: 100%;
+}
+    .mailinglist h6 {
+	text-align: center;
+	border-bottom: 0;
+	margin-bottom: 0;
+}
+ .firstp {
+	margin-left: 50%;
+	transform: translateX(-50%);
+}   
+    
+    .secondp {
+	margin-left: 50%;
+	transform: translateX(-50%);
+}
+   .counterdowntext {
+	margin-left: 0;
+}
+  .recentpost h3 {
+	text-align: center;
+}  
+    .recentpost p {
+	text-align: center;
+        border-bottom: 0;
+}  
+    .recentblog h3 {
+	text-align: center;
+	margin-top: 30px;
+}
+   .mailinglist h3 {
+	text-align: center;
+	margin-top: 20px;
+} 
+    .mailinglist p {
+	border-bottom:0;
+	text-align: center;
+}
+    .mailinglist button {
+	transform: translateX(-50%);
+	margin-left: 50%;
+}
+    .uppernav{
+        overflow-x: hidden !important;
+    }
+    .banner{
+        overflow-x: hidden !important;
+    }
+    .underban{
+        overflow-x: hidden !important;
+    }
+    .service{
+        overflow-x: hidden !important;
+    }
+    .servicedown{
+        overflow-x: hidden !important;
+    }
+    .featured{
+        overflow-x: hidden !important;
+    }
+    .customerfeed{
+        overflow-x: hidden !important;
+    }
+    .fnews{
+        overflow-x: hidden !important;
+    }
+    .footer{
+        overflow-x: hidden !important;
+    }
+    .copyright{
+        overflow-x: hidden !important;
+    }
+    
+    
+
+
+
+
+
+
+
+}
+
+
+
+
